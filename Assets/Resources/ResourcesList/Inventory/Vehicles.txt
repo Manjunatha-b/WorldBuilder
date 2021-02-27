@@ -1,0 +1,8 @@
+Prefabs/Inventory/Vehicles/air
+Prefabs/Inventory/Vehicles/baby-carriage
+Prefabs/Inventory/Vehicles/bike-old
+Prefabs/Inventory/Vehicles/boats
+Prefabs/Inventory/Vehicles/cars
+Prefabs/Inventory/Vehicles/motorbike-old
+Prefabs/Inventory/Vehicles/sledge
+Prefabs/Inventory/Vehicles/trains

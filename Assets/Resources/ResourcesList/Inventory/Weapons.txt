@@ -1,0 +1,12 @@
+Prefabs/Inventory/Weapons/ak-47
+Prefabs/Inventory/Weapons/baseball-bat-nails
+Prefabs/Inventory/Weapons/bow
+Prefabs/Inventory/Weapons/bullet-line
+Prefabs/Inventory/Weapons/dynamite
+Prefabs/Inventory/Weapons/dynamite-pack
+Prefabs/Inventory/Weapons/m4
+Prefabs/Inventory/Weapons/mp40
+Prefabs/Inventory/Weapons/revolver
+Prefabs/Inventory/Weapons/stick-grenade
+Prefabs/Inventory/Weapons/tellermine42
+Prefabs/Inventory/Weapons/thompson

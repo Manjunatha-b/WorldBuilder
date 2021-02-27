@@ -1,0 +1,17 @@
+Prefabs/Inventory/Apocalypse/barrel
+Prefabs/Inventory/Apocalypse/barrel-empty
+Prefabs/Inventory/Apocalypse/barricade-window
+Prefabs/Inventory/Apocalypse/barrier-concrete
+Prefabs/Inventory/Apocalypse/barrier-concrete-demaged
+Prefabs/Inventory/Apocalypse/barrier-concrete-tank
+Prefabs/Inventory/Apocalypse/blood-spill
+Prefabs/Inventory/Apocalypse/body-bag
+Prefabs/Inventory/Apocalypse/car-broken
+Prefabs/Inventory/Apocalypse/crate-supply
+Prefabs/Inventory/Apocalypse/fence-wire
+Prefabs/Inventory/Apocalypse/stretcher
+Prefabs/Inventory/Apocalypse/tire
+Prefabs/Inventory/Apocalypse/tires
+Prefabs/Inventory/Apocalypse/traffic-cone
+Prefabs/Inventory/Apocalypse/traffic-lights-broken
+Prefabs/Inventory/Apocalypse/truck-broken

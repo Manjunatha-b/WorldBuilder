@@ -1,0 +1,9 @@
+Prefabs/Inventory/Farm/farm-house
+Prefabs/Inventory/Farm/farm-silo
+Prefabs/Inventory/Farm/hay-cube
+Prefabs/Inventory/Farm/hay-pile
+Prefabs/Inventory/Farm/haystack
+Prefabs/Inventory/Farm/scarecrow
+Prefabs/Inventory/Farm/timber
+Prefabs/Inventory/Farm/tractor
+Prefabs/Inventory/Farm/tractor-carriage

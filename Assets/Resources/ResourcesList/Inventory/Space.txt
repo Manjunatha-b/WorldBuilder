@@ -1,0 +1,12 @@
+Prefabs/Inventory/Space/asteroid
+Prefabs/Inventory/Space/crater-big
+Prefabs/Inventory/Space/crater-deep
+Prefabs/Inventory/Space/lunar-rover
+Prefabs/Inventory/Space/moon
+Prefabs/Inventory/Space/planet-ring
+Prefabs/Inventory/Space/planet-sea
+Prefabs/Inventory/Space/rocket-module
+Prefabs/Inventory/Space/space-shuttle
+Prefabs/Inventory/Space/space-shuttle-rockets
+Prefabs/Inventory/Space/sun
+Prefabs/Inventory/Space/ufo

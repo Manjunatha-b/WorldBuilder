@@ -1,0 +1,16 @@
+Prefabs/Inventory/Beach/ball-beach
+Prefabs/Inventory/Beach/beach-bag
+Prefabs/Inventory/Beach/buoy
+Prefabs/Inventory/Beach/cabin-beach
+Prefabs/Inventory/Beach/flip-flops
+Prefabs/Inventory/Beach/float
+Prefabs/Inventory/Beach/lifebuoy
+Prefabs/Inventory/Beach/lifeguard
+Prefabs/Inventory/Beach/lounger
+Prefabs/Inventory/Beach/sand-bucket
+Prefabs/Inventory/Beach/sand-castle
+Prefabs/Inventory/Beach/sunscreen
+Prefabs/Inventory/Beach/sunscreen-big
+Prefabs/Inventory/Beach/sunscreen-closed
+Prefabs/Inventory/Beach/surf
+Prefabs/Inventory/Beach/towel-beach

@@ -1,0 +1,9 @@
+Prefabs/Inventory/Tools/axe
+Prefabs/Inventory/Tools/broom
+Prefabs/Inventory/Tools/fish-line
+Prefabs/Inventory/Tools/hammer
+Prefabs/Inventory/Tools/pickaxe
+Prefabs/Inventory/Tools/pitchfork
+Prefabs/Inventory/Tools/shovel
+Prefabs/Inventory/Tools/wheels
+Prefabs/Inventory/Tools/wrench

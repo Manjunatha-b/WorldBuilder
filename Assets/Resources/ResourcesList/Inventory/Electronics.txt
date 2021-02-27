@@ -1,0 +1,7 @@
+Prefabs/Inventory/Electronics/pc-desktop
+Prefabs/Inventory/Electronics/pc-keyboard
+Prefabs/Inventory/Electronics/pc-monitor
+Prefabs/Inventory/Electronics/pc-mouse
+Prefabs/Inventory/Electronics/phone
+Prefabs/Inventory/Electronics/television
+Prefabs/Inventory/Electronics/tv-camera

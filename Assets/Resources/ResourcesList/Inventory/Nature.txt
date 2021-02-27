@@ -1,0 +1,15 @@
+Prefabs/Inventory/Nature/Clouds_M
+Prefabs/Inventory/Nature/egg-dino
+Prefabs/Inventory/Nature/egg-dino-nest
+Prefabs/Inventory/Nature/egg-dino-open
+Prefabs/Inventory/Nature/Flowers_M
+Prefabs/Inventory/Nature/Grass_M
+Prefabs/Inventory/Nature/Ice_M
+Prefabs/Inventory/Nature/lava-brick
+Prefabs/Inventory/Nature/Leaves_M
+Prefabs/Inventory/Nature/Mushrooms_M
+Prefabs/Inventory/Nature/rain
+Prefabs/Inventory/Nature/Sea_M
+Prefabs/Inventory/Nature/Stones_M
+Prefabs/Inventory/Nature/Trees_M
+Prefabs/Inventory/Nature/water-wave-circle

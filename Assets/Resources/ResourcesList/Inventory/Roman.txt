@@ -1,0 +1,2 @@
+Prefabs/Inventory/Roman/pillar-doric-big
+Prefabs/Inventory/Roman/pillar-ionic
