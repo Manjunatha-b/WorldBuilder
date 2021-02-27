@@ -34,4 +34,4 @@
 
 ## Known Bugs / Problems
 1. Deletion of ground tile you're standing on, no way to reset back to a tile yet.
-1. Some (1-2) 'Inventory' menu like nature dont open right now cause of subfolders which I didnt look into yet. Easily fixable.
+1. Some 'Inventory' menu buttons - nature, props,people & vehicles dont open right now cause of subfolders which I didnt look into yet. Easily fixable.
