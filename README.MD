@@ -35,3 +35,8 @@
 ## Known Bugs / Problems
 1. Deletion of ground tile you're standing on, no way to reset back to a tile yet.
 1. Some 'Inventory' menu buttons - nature, props,people & vehicles dont open right now cause of subfolders which I didnt look into yet. Easily fixable.
+
+## FPS:
+1. On an Intel HD520 PC it averages above 150 frames ( in editor ) The project was developed with patience on the same laptop with a solid 4 gigs of ram.
+2. Redmi 5 looks like its running at a 25-35 fps range.
+It can definitely be improved as Ive used the standard rendering pipeline rather than LightWeight RP to just get the prototype up and running. LWRP can certainly give it a boost.
