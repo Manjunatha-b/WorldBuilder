@@ -1,6 +1,3 @@
-video : <a href>drive.google.com/file/d/1mTJgFbiKHpXZgGKyPgGOXMzIkhySBVGA/view?usp=sharing</a> <br/>
-apk:    <a href>drive.google.com/file/d/1sAfGSkQGJXwHrKU5gDI_cxG3dhIXYLu3/view?usp=sharing</a>
-
 # World Builder Game
 
 ## Game Features
